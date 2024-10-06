@@ -23,3 +23,8 @@ windows = { version = "0.51.1", features = [
 
 [dev-dependencies]
 winit = "0.26"
+
+[features]
+force-compile = []
+save-blob = []
+no-msgs = []
